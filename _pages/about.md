@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A profile that is on-going"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
